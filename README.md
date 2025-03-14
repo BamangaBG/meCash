@@ -39,7 +39,7 @@ Ensure the following tools are installed on your system:
 
 ### Clone the Repository
 ```bash
-git clone <repository-url>
+git clone <https://github.com/BamangaBG/meCash>
 cd meCash
 ```
 
@@ -128,7 +128,6 @@ java -jar target/meCash-api-1.0.0.jar
 
 ## Notes
 - Ensure you use environment variables or a secrets manager for storing sensitive information like database credentials and JWT secret keys.
-- Replace `<repository-url>` with the actual URL of your Git repository.
 
 ---
 
